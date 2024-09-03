@@ -5,7 +5,7 @@ repositório IlhaDaAventura
 
 Sejam todos bem vindos 
 
-![](https://tenor.com/pt-BR/view/cat-gif-10669053206613970906](https://tenor.com/pt-BR/view/cat-gif-10669053206613970906))
+![](https://media1.tenor.com/m/7LJuaYyzXnYAAAAC/sols-bug-jar-silly-cat.gif)
 
 E-mail para contato 📧 00001117021531sp@al.educacao.sp.gov.br
 
