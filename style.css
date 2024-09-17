@@ -1,7 +1,7 @@
 body {
     background-color: #FF0033;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Bai Jamjuree", Space Grotesk;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -12,7 +12,7 @@ body {
 button {
     background-color: #E74C3C;
     color: white;
-    font-family: "Bai Jamjuree", sans-serif;
+    font-family: "Bai Jamjuree", Space Grotesk;
 }
 
 .passo {
